@@ -1,4 +1,4 @@
-package chap4_solving;
+package chap4_solving.hard;
 
 import java.util.Scanner;
 
